@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+@theme inline {
+  --color-deal-bg: #FFF6EC;
+  --color-deal-surface: #FFFFFF;
+  --color-deal-elevated: #FFFFFF;
+  --color-deal-border: #DEDED7;
+  --color-deal-muted: #55504A;
+  --color-deal-sage: #FF4F01;
+  --color-deal-text: #101010;
+}

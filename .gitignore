@@ -1,0 +1,30 @@
+# Dependencies and build outputs
+**/node_modules/
+**/dist/
+**/target/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# IDE settings
+.idea/
+.vscode/
+
+# Local test database
+.local-db-test/
+
+# Old Netlify backup
+.codex/
+
+# Netlify generated files
+.netlify/
+**/.netlify/
+
+# OS files
+.DS_Store
+Thumbs.db
